@@ -21,3 +21,17 @@ Orders per day per store jumped 50% in a single year — from 1,425 in Q4 FY25 t
 
 **Finding 2: Ad revenue is the hidden margin engine**
 Advertising revenue grew 33× in two years — from ₹4
+
+## How to run
+
+Clone the repository, install pandas, matplotlib, and numpy, then run the notebooks in order starting with 01_data_extraction.
+
+---
+
+## About this project
+
+Built by Anand VS — PGDM (International Trade and Logistics), IMT Ghaziabad. Background in supply chain analysis, credit operations, and agri-input logistics.
+
+This project is part of a series applying data analysis to real Indian supply chain problems.
+
+Connect on LinkedIn: https://www.linkedin.com/in/anandvs017
